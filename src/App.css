@@ -1,0 +1,23 @@
+.leaflet-container {
+  width: 80%;
+  height: 80vh;
+}
+
+.leaflet-div-icon {
+  background: #fff;
+  border: 1px solid #666;
+  }
+
+  .custom-popup, .leaflet-popup-content-wrapper {
+    background:#af2807;
+    color:rgb(218, 124, 36);
+    font-size:12px;
+    line-height:10px;
+    border-radius: 10px;
+    }
+
+h1 {
+  position: relative;
+  top: 20px; 
+  left: 500px;
+}
